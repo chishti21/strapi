@@ -1,3 +1,12 @@
+.editorconfig
+.env.example
+.eslintric
+.strap*
+.eslintignore
+yarn.lock
+
+
+
 ############################
 # OS X
 ############################
@@ -129,3 +138,5 @@ dist
 build
 .strapi-updater.json
 .strapi-cloud.json
+
+
